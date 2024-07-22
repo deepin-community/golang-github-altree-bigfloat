@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-altree-bigfloat (0.0~git20220102.38c8b72-2) unstable; urgency=medium
 
-  * Initial release
+  * Team Upload.
+    + Source-only upload.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Nilesh Patra <nilesh@debian.org>  Thu, 09 Nov 2023 01:16:48 +0530
+
+golang-github-altree-bigfloat (0.0~git20220102.38c8b72-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1037441)
+
+ -- Raul Cheleguini <raul.cheleguini@gmail.com>  Sat, 05 Aug 2023 16:24:51 -0300
