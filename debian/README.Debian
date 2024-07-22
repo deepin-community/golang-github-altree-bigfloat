@@ -1,0 +1,6 @@
+golang-github-altree-bigfloat for Debian
+----------------------------------------
+For more information about this Golang package refer to the official
+documentation available at https://pkg.go.dev/github.com/ALTree/bigfloat
+
+ -- Raul Cheleguini <raul.cheleguini@gmail.com>, Wed,  9 Aug 2023 17:00:17 -0300
